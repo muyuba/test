@@ -41,5 +41,6 @@ public class CodeGen {
         generator.setPackageInfo(packageConfig);
         generator.setStrategy(strategyConfig);
         generator.execute();
+        //test
     }
 }
